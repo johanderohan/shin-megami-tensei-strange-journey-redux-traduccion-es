@@ -1,0 +1,13 @@
+# Nunca subir el juego ni nada derivado de su contenido
+*.3ds
+*.cia
+*.cxi
+*.xdelta
+*.zip
+*.7z
+*.rar
+*.json
+*.jsonl
+romfs/
+build*/
+trabajo/
